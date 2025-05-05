@@ -1,0 +1,33 @@
+{
+  "name": "Chatosaurus",
+  "version": "1.0.0",
+  "description": "Chatosaurus is an AI assistant plugin for Docusaurus that brings your docs to life with conversational search. Powered by retrieval-augmented generation, it lets users interact with your documentation like they're chatting with a brainy, violet-scaled dev dino.",
+  "main": "index.js",
+  "author": "Tessa Vos",
+  "license": "MIT",
+  "keywords": [
+    "docusaurus",
+    "openai",
+    "chatbot",
+    "assistant",
+    "ai",
+    "plugin",
+    "documentation",
+    "retrieval-augmented generation",
+    "rag",
+    "docusaurus-plugin",
+    "semantic-search",
+    "gpt",
+    "llm",
+    "natural-language-interface",
+    "developer-tools",
+    "docs-as-chat",
+    "chat-ui",
+    "gpt-integration",
+    "context-aware",
+    "doc-search"
+  ],
+  "peerDependencies": {
+    "@docusaurus/core": "^3.0.0"
+  }
+}
