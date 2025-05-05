@@ -4,9 +4,6 @@
   <p>
     Chatosaurus is an AI assistant plugin for Docusaurus that brings your docs to life with conversational search. Powered by retrieval-augmented generation, it lets users interact with your documentation like they're chatting with a brainy, violet-scaled dev dino.
   </p>
-
-  <a href="#✨-features">Features</a> •
-  <a href="#🤝-contributing">Contributing</a>
 </div>
 
 ---
