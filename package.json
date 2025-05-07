@@ -1,8 +1,8 @@
 {
-  "name": "Chatosaurus",
+  "name": "chatosaurus",
   "version": "1.0.0",
   "description": "Chatosaurus is an AI assistant plugin for Docusaurus that brings your docs to life with conversational search. Powered by retrieval-augmented generation, it lets users interact with your documentation like they're chatting with a brainy, violet-scaled dev dino.",
-  "main": "index.js",
+  "main": "src/index.js",
   "author": "Tessa Vos",
   "license": "MIT",
   "keywords": [
@@ -29,5 +29,9 @@
   ],
   "peerDependencies": {
     "@docusaurus/core": "^3.0.0"
+  },
+  "dependencies": {
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
   }
 }
